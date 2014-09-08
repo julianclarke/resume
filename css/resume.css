@@ -1,9 +1,11 @@
 body {
-	background-color: #484848;
-	font-family: 'Lato'
+	background-color: #494949;
+	font-family: 'Lato';
+	font-weight: 400, 500, 700, 900;
+	color: #ffffff;
+	text-align: center;
 }
 
- .site-text {
-            color: #fff;
-            text-align: center;
-            box-shadow: 3px;
+
+
+
